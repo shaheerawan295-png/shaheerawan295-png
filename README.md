@@ -5,7 +5,11 @@
 <div align="center">
 
 <!-- ─────────────────────────── HEADER WAVE ─────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0f172a,60:1e3a5f,100:2563eb&height=220&section=header&text=Muhammad%20Shaheer%20Haider&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20Specialist%20%E2%80%A2%20Problem%20Solver&descSize=17&descAlignY=52&descAlign=50" width="100%" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Muhammad+Shaheer+Haider" alt="Name Typing" />
+</a>
+
+<br>
 
 <!-- ─────────────────────────── TYPING SVG ──────────────────────────── -->
 <a href="https://git.io/typing-svg">
