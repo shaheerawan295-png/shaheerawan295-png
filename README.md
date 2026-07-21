@@ -68,16 +68,20 @@
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerawan295-png&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9&langs_count=8)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaheerawan295-png&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
-<br>
+<br><br>
 
-```text
+<h4>⏰ Productive Time</h4>
+
+<pre>
 🌅 Morning      ██████░░░░░░░░░   38%
 🌆 Afternoon    ████████░░░░░░░   52%
 🌃 Evening      ███████████████   95%
 🌙 Night        ██████████████░   90%
-```
+</pre>
+
+<sub>🌃 <b>Night Owl</b> • Peak: <code>8 PM – 2 AM</code></sub>
 
 </td>
 </tr>
