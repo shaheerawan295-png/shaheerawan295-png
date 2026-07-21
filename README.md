@@ -3,22 +3,20 @@
      ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:7C3AED&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=45&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=80&lines=👋+Hey+There!;I'm+Shaheer+Awan;Welcome+to+my+GitHub!" alt="Name Wave" />
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:7C3AED&height=140&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
 
-<br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&repeat=true&width=800&height=80&lines=👋+Hey+There!;I'm+Shaheer+Awan;Welcome+to+my+GitHub!" alt="Name Wave" />
+  </a>
 
-<!-- ⭐ STEP 2: Role Animation (appears after name) -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&repeat=true&width=700&height=50&lines=⚡+Full+Stack+Developer;🎨+UI%2FUX+Enthusiast;🚀+Problem+Solver;💡+Tech+Innovator" alt="Role Wave" />
-</a>
+  <br>
 
-<br><br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=800&height=55&lines=⚡+Full+Stack+Developer;🎨+UI%2FUX+Enthusiast;🚀+Problem+Solver;💡+Tech+Innovator" alt="Role Wave" />
+  </a>
 
-<!-- ─────────────────────────── SOCIAL BADGES ───────────────────────── -->
+</div>─────────────────────── SOCIAL BADGES ───────────────────────── -->
 <a href="https://linkedin.com/in/Muhammad%20Shaheer%20Haider">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
