@@ -148,10 +148,9 @@
 
 <div align="center">
 
-<a href="https://github.com/shaheerawan295-png">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaheerawan295-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Shaheer's%20GitHub%20Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheerawan295-png&theme=tokyonight&hide_border=true" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaheerawan295-png&show_icons=true&theme=tokyonight&hide_border=true" />
+&nbsp;
+<img height="180em" src="https://streak-stats.demolab.com?user=shaheerawan295-png&theme=tokyonight&hide_border=true" />
 
 </div>
 
