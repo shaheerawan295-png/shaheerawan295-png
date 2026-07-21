@@ -148,8 +148,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaheerawan295-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Shaheer's GitHub Stats" />
-&nbsp;
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaheerawan295-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Shaheer's GitHub Stats" />&nbsp;
 <img height="180em" src="https://streak-stats.demolab.com?user=shaheerawan295-png&theme=tokyonight&hide_border=true" alt="Shaheer's GitHub Streak" />
 
 </div>
