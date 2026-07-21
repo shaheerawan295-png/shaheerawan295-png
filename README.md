@@ -16,10 +16,9 @@
   <br>
 
   <!-- ─────────── ROLE TYPING (URL Encoded) ─────────── -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Full+Stack+Developer+%E2%9A%A1;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Problem+Solver+%F0%9F%9A%80;Tech+Innovator+%F0%9F%92%A1" alt="Role Typing SVG" />
-  </a>
-
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Software+Developer+%F0%9F%92%BB;Full+Stack+Developer+%E2%9A%A1;MERN+Stack+Developer+%F0%9F%94%A5;WordPress+Developer+%F0%9F%8C%90;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Problem+Solver+%F0%9F%9A%80;Tech+Innovator+%F0%9F%92%A1" alt="Role Typing SVG" />
+</a>
   <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad%20Shaheer%20Haider)
