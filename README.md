@@ -148,15 +148,16 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaheerawan295-png&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9&ring_color=2563eb" />
-<img width="49%" src="https://streak-stats.demolab.com?user=shaheerawan295-png&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=c9d1d9&dates=555555" />
+<a href="https://github.com/shaheerawan295-png">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaheerawan295-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Shaheer's%20GitHub%20Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheerawan295-png&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
 <br>
 
 ---
-
 ## 📈 Contribution Graph
 
 <div align="center">
