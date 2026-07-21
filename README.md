@@ -176,7 +176,12 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=shaheerawan295-png&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=shaheerawan295-png&theme=tokyonight&column=7&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="GitHub Trophies" />
+</a>
+
+<br>
+<sub>⭐ Achievements unlocked through consistent contributions</sub>
 
 </div>
 
