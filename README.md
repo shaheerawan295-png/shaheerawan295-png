@@ -3,20 +3,20 @@
      ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:7C3AED&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
 
-<!-- ─────────────────────────── HEADER WAVE ─────────────────────────── -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Shaheer+Awan" alt="Name Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=45&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=80&lines=👋+Hey+There!;I'm+Shaheer+Awan;Welcome+to+my+GitHub!" alt="Name Wave" />
 </a>
 
 <br>
 
-<!-- ─────────────────────────── TYPING SVG ──────────────────────────── -->
+<!-- ⭐ STEP 2: Role Animation (appears after name) -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%92%BB+Building+Modern+Web+Applications;%E2%9A%A1+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;%F0%9F%8E%AF+Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&repeat=true&width=700&height=50&lines=⚡+Full+Stack+Developer;🎨+UI%2FUX+Enthusiast;🚀+Problem+Solver;💡+Tech+Innovator" alt="Role Wave" />
 </a>
 
-<br>
+<br><br>
 
 <!-- ─────────────────────────── SOCIAL BADGES ───────────────────────── -->
 <a href="https://linkedin.com/in/Muhammad%20Shaheer%20Haider">
