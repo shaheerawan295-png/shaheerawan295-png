@@ -1,29 +1,40 @@
-name: Generate Snake Animation
+# ═══════════════════════════════════════════════════════════════════
+#  GitHub Snake — auto-generates contribution snake animation
+#  Docs: https://github.com/Platane/snk
+#
+#  FIX vs previous version: the old workflow deployed to a separate
+#  "output" branch, but the README reads from main's output/ folder —
+#  so the snake shown in the profile was a stale, never-updating file.
+#  This version commits both variants to main:output/ so the README
+#  URLs always point at fresh data.
+# ═══════════════════════════════════════════════════════════════════
+name: GitHub Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # Runs every 6 hours (GitHub cron is UTC)
+    - cron: "0 */6 * * *"
+  # Manual trigger: Actions tab → GitHub Snake → Run workflow
   workflow_dispatch:
+  # Regenerate whenever the profile repo changes
+  push:
+    branches: [main]
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
+    # Safety: only run in the profile repo (not if this file is copied elsewhere)
+    if: github.repository == 'shaheerawan295-png/shaheerawan295-png'
     steps:
-      - name: Generate Snake
+      - name: Generate snake (light + dark)
         uses: Platane/snk@v3
         with:
           github_user_name: shaheerawan295-png
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
+          github_commit: true
+          github_branch: main
